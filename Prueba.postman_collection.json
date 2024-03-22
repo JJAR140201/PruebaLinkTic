@@ -1,0 +1,52 @@
+{
+	"info": {
+		"_postman_id": "cb1ee76d-3202-4a93-ab81-f8ad0ea7a097",
+		"name": "Prueba",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33294101"
+	},
+	"item": [
+		{
+			"name": "AseguradosList",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/prueba/asegurados/listaAsegurados",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"prueba",
+						"asegurados",
+						"listaAsegurados"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "LiquidacionList",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/prueba/asegurados/listarLinkTic",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"prueba",
+						"asegurados",
+						"listarLinkTic"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
