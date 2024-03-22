@@ -55,5 +55,3 @@ http://localhost:8080/prueba/asignados/listarAsignados
 http://localhost:8080/asignados/listarLiquidacion
 ```
 ---
-
-Puedes personalizar este README según las necesidades específicas de tu proyecto. Asegúrate de proporcionar información clara y útil para los usuarios que visiten tu repositorio.
